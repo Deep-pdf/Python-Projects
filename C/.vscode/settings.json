@@ -3,10 +3,13 @@
       "file:///C:/Users/Deep/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine.css",
       "file:///C:/Users/Deep/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/epic-80s-transitions.css"
       ],
-      "editor.fontSize": 20,
+      "editor.fontSize": 24,
       "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "math.h": "c",
+        "sstream": "c"
       },
       "editor.cursorBlinking": "blink",
-      "editor.cursorStyle": "line"
+      "editor.cursorStyle": "line",
+      "C_Cpp.errorSquiggles": "enabled"
   }

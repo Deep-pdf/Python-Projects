@@ -1,3 +1,13 @@
 {
     "editor.fontSize": 24
 }
+{
+    "workbench.colorTheme": "Synthwave x Fluoromachine & epic animations"
+}
+{
+    "vscode_custom_css.imports": [
+      "file:///C:/Users/Deep/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine.css",
+      "file:///C:/Users/Deep/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/epic-80s-transitions.css"
+      ]
+  }
+  

@@ -1,9 +1,19 @@
 #include <stdio.h>
 
-int main()
-{
-
-      printf("hello world");
-      return 0;
+int statc(){
+    
+    static int a = 0;
+    printf("value of a is %d\n", a);
+    a++;
+    return a;
 }
 
+int main()
+{
+    int a;
+    a = statc();
+    a = statc();
+    a = statc();
+    a = statc();
+    return 0;
+}
