@@ -1,0 +1,100 @@
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+ol {
+    list-style-position: inside;
+    display: flex;
+
+    text-align: center;
+    gap: 205px;
+    margin: 0px;
+    padding: 30px;
+    justify-content: center;
+
+}
+
+
+h1 {
+    font-family: "Arimo", serif;url(book.css)
+    ;
+    font-size: 40px;
+    border: 8px solid rgb(32, 230, 230);
+    text-transform: uppercase;
+    color: rgb(16, 16, 138);
+    background-color: aquamarine;
+    padding: 20px;
+    margin: -8px;
+}
+
+h3 {
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: capitalize;
+    font-size:30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+    
+}
+
+th {
+    text-align: center;
+    padding: 0px;
+
+}
+
+td{
+    border: 4px solid red;
+    font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+th{
+    border: 4px solid red;
+}
+
+img{
+    width: 100px;
+    transition: transform 10.5 ease-in-out;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+
+body{
+    
+}
+h2{
+    font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color:rgb(18, 250, 250);
+  background-color: #1818ffa8;
+  opacity: 0.5;
+  padding: 8px;
+  margin: 8px;
+  margin-left: -8px;
+  margin-right: -9px;
+}
